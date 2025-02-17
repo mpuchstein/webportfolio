@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b44a4289-5053-49d3-b089-d8edf18a67fe" name="container_portfolio" url="http://10.0.0.3">
+        <fileTransfer rootFolder="/home/dev" accessType="SFTP" host="10.0.0.3" port="50022" sshConfigId="b530ab96-d8f3-498d-ab14-15963943f404" sshConfig="dev@10.0.0.3:50022 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
